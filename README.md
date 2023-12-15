@@ -26,12 +26,12 @@ Discover the journey of our model through the captivating visualizations of loss
 ## Model Performance
 Behold the accuracy of our model as it reaches new heights in recognizing date varieties.
 
-![Model Accuracy](images/modelAccuracy.png)
+![Model Accuracy](images/modelAccuracy.PNG)
 
 ## Confusion Matrix
 Unveil the intricacies of classification with our Confusion Matrix.
 
-![Confusion Matrix](images/CM.png)
+![Confusion Matrix](images/CM.PNG)
 
 ## Dive In!
 Explore the intricacies of our image classification journey in the accompanying notebooks. Your curiosity and feedback are highly valued!
