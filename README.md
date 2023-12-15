@@ -14,7 +14,7 @@ For this classification task, we have designed a powerful Sequential Architectur
 ## Data Augmentation using DCGAN
 Witness the magic of Data Augmentation through the lens of Deep Convolutional Generative Adversarial Networks (DCGAN).
 
-![Example of Data Augmented](images/GAN.png)
+![Example of Data Augmented](images/GAN.PNG)
 
 For an in-depth exploration, delve into the notebook: [Data_Augmentation_Using_DCGAN.ipynb](Data_Augmentation_Using_DCGAN.ipynb).
 
