@@ -21,7 +21,7 @@ For an in-depth exploration, delve into the notebook: [Data_Augmentation_Using_D
 ## Training Insights
 Discover the journey of our model through the captivating visualizations of loss functions during training and testing.
 
-![Loss Functions](images/loss.png)
+![Loss Functions](images/loss.PNG)
 
 ## Model Performance
 Behold the accuracy of our model as it reaches new heights in recognizing date varieties.
