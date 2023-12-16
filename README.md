@@ -6,6 +6,11 @@ In this project, we leverage Convolutional Neural Networks (CNN) for the classif
 
 ![Different Types of Dates](images/dateImage.png)
 
+## Dataset
+Our dataset comprises 897 high-quality JPG images, each depicting a unique type of date among the 5 available types (Mejhoul, Rutab, Soukari, Nabtat Ali, and Ajwa).
+
+**Source:** [Date Fruit Image Dataset in Controlled Environment](https://www.kaggle.com/datasets/wadhasnalhamdan/date-fruit-image-dataset-in-controlled-environment/)
+
 ## Model Architecture
 For this classification task, we have designed a powerful Sequential Architecture for our CNN model.
 
